@@ -1,8 +1,5 @@
 
-Memory updated
-Here's an updated README for the Fruits.ai website, reflecting that it is a frontend-only project built with React:
-
-Fruits.ai 🍎🍇🥑
+#Fruits.ai 
 A Simple Health Manager Interface
 
 Overview
@@ -36,14 +33,13 @@ cd fruits-ai
 Install the dependencies:
 bash
 Copy code
-npm install
-# or
+npm install or 
 yarn install
 Start the development server:
 bash
 Copy code
 npm start
-# or
+or 
 yarn start
 Open your browser and go to http://localhost:5173 to view the application.
 Usage
