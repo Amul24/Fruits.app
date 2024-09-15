@@ -25,7 +25,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/fruits-ai.git
+git clone (https://github.com/Amul24/Fruits.app.git)
 Navigate to the project directory:
 bash
 Copy code
